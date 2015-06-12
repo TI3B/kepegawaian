@@ -2,7 +2,7 @@
 
 class Dashboard_Admin extends CI_Controller {
 
-	public function index()
+	public function index() // test
 	{
 		if($this->session->userdata('logged_in')!="" && $this->session->userdata('stts')=="administrator")
 		{
