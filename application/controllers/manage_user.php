@@ -1,5 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-
+//tess
 class manage_user extends CI_Controller {
 
 	public function index()
